@@ -1,2 +1,4 @@
 <TBA>
 changes to test #1
+new line added from master
+new line added after cloning in vs code
